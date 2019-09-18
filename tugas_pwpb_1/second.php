@@ -55,13 +55,16 @@
     <div class="collapse navbar-collapse" id="navbarCollapse">
       <ul class="navbar-nav mr-auto">
         <li class="nav-item active">
-          <a class="nav-link" href="index.php">First<span class="sr-only">(current)</span></a>
+          <a class="nav-link" href="index.php">Satu<span class="sr-only">(current)</span></a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="Second.php">Second</a>
+          <a class="nav-link" href="Second.php">Dua</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link " href="third.php">Third</a>
+          <a class="nav-link " href="third.php">Tiga</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link " href="form.php">Empat</a>
         </li>
       </ul>
       <form class="form-inline mt-2 mt-md-0">
@@ -76,8 +79,8 @@
   <br>
   <br>
   <!-- Judul -->
-  <h1 align="center">Hello Webku</h1>
-  <br>
+  <h1 align="center">Biodata</h1>
+  <h1 align="center">XI Rekayasa Perangkat Lunak 2</h1>
   <br>
   <!-- Garis bawah -->
   <hr align="center" width="100%" left="50%" color="3a3634" size="2">

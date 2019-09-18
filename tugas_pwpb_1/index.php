@@ -49,9 +49,10 @@
     <div class="inner">
       <h3 class="masthead-brand" style="font-family: ">Web ku</h3>
       <nav class="nav nav-masthead justify-content-center">
-        <a class="nav-link active" href="index.php">First</a>
-        <a class="nav-link" href="second.php">Second</a>
-        <a class="nav-link" href="third.php">Third</a>
+        <a class="nav-link active" href="index.php">Satu</a>
+        <a class="nav-link" href="second.php">Dua</a>
+        <a class="nav-link" href="third.php">Tiga</a>
+        <a class="nav-link" href="form.php">Empat</a>
       </nav>
     </div>
   </header>
